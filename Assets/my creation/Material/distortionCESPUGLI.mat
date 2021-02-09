@@ -46,7 +46,7 @@ Material:
     - Vector1_47D4A81E: 0.38
     - Vector1_C5DCB9D9: 2.98
     - _EnableExternalAlpha: 0
-    - _WindSp: 0.45
+    - _WindSp: 0.12
     m_Colors:
     - Vector2_C9DC4294: {r: 0.23, g: 1.23, b: 1.7, a: 5.57}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
